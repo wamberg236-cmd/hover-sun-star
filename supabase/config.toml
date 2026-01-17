@@ -1,4 +1,0 @@
-project_id = "devbqlukasrxiptjtujm"
-
-[functions.process-payment]
-verify_jwt = false
